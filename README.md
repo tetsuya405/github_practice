@@ -1,3 +1,10 @@
+# github_practice
+
+Udemyの[「Git入門： ノンプログラマーのための Git」](https://www.udemy.com/course/git-beginning/)にて作成したリポジトリーです。
+
+当時はQiitaを書いていなかったので、マークダウンを初めて触りました。
+
+
 # #=H1
 ## ##=H2
 ### ###=H3
